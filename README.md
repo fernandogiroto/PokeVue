@@ -1,4 +1,8 @@
-# pokedex
+# PokeVue
+![](https://github.com/fernandogiroto/pokevue/blob/master/vuejspodex.gif?raw=true)
+![](https://github.com/fernandogiroto/pokevue/blob/master/vuejspokedex_part2.gif)
+
+
 
 ## Project setup
 ```
