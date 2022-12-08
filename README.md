@@ -1,5 +1,8 @@
 # PokeVue
+Project just to practice vuejs. Using all component rendering tools, routes, styles, animations and transitions.
+
 ![](https://github.com/fernandogiroto/pokevue/blob/master/vuejspodex.gif?raw=true)
+
 ![](https://github.com/fernandogiroto/pokevue/blob/master/vuejspokedex_part2.gif)
 
 
